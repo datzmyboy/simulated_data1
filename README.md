@@ -15,6 +15,6 @@ Task 1: Data Validation & Internal Control
 
   * Identify negative prices or quantities
 
-  *Flag orders marked as Cancelled or Returned that still contribute to sales
+  * Flag orders marked as Cancelled or Returned that still contribute to sales
 
-  *Create a Data_Issue_Flag column to mark problematic records
+  * Create a Data_Issue_Flag column to mark problematic records
