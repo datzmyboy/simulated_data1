@@ -38,6 +38,7 @@ Objective: Apply business logic using Excel formulas.
 
 
 Task 3: Pivot Tables & Management Reporting
+
 Objective: Summarize data for management-level reporting.
 
  * Build pivot tables for:
@@ -48,10 +49,11 @@ Objective: Summarize data for management-level reporting.
 
  * Total returned sales by country
 
- *Create charts and organize them into a management report sheet
+ * Create charts and organize them into a management report sheet
 
 
 Task 4: Discrepancy & Root Cause Analysis
+
 Objective: Interpret results and identify potential business issues.
 
 * Identify which platform has higher return impact
@@ -62,6 +64,7 @@ Objective: Interpret results and identify potential business issues.
 
 
 Task 5: Process Improvement Recommendations
+
 Objective: Propose actionable improvements based on analysis.
 
  * Recommend ways to improve:
