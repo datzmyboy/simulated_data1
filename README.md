@@ -34,19 +34,13 @@ In Task 1, I created a helper column called **Date_issue_flag**. This column is 
 
 Objective: Apply business logic using Excel formulas.
 
-* Create a Final_Sales column:
+* Create a **Final_sales column**:
 
-* Cancelled → 0
-
-* Returned → Negative value
-
-* Completed → Net sales
-
-* Create a High_Value_Order flag based on sales thresholds
+* Create a **High_value_order** flag based on sales thresholds
 
 * Use logical Excel functions such as IF, AND, and OR , ISBLANK
 
-In Task 2, I used Excel functions such as **IF**, **OR**, **ISBLANK**, and **AND** to apply business logic to the dataset. These functions were used to determine which records should be flagged and which data points require further attention. By using logical conditions instead of manual checks, the process ensures consistent validation and helps focus the analysis on records that may impact accuracy and reporting results.
+In Task 2, I used Excel functions such as **IF**, **OR**, **ISBLANK**, and **AND** to apply business logic to address the inaccurate data identified in Task 1, specifically through the Date_Issue_Flag. These functions were used to determine which data values required further attention. In addition, a **Final_sales** column was created to represent the actual financial impact of each order based on its status, assigning negative values for returned orders and zero values for cancelled orders. I also created a **High_value_order** column using gross sales to identify transactions that require closer monitoring, as these high-value products can significantly affect overall sales performance if not handled properly.
 
 
 ![Project Screenshot](https://github.com/datzmyboy/simulated_data1/blob/main/data1_pic.jpg)
@@ -54,8 +48,7 @@ In Task 2, I used Excel functions such as **IF**, **OR**, **ISBLANK**, and **AND
 
 
 
-
-Task 3: Pivot Tables & Management Reporting
+# Task 3: Pivot Tables & Management Reporting
 
 Objective: Summarize data for management-level reporting.
 
@@ -69,8 +62,16 @@ Objective: Summarize data for management-level reporting.
 
  * Create charts and organize them into a management report sheet
 
+In Task 3, I created pivot tables to summarize total final sales by platform, total quantity sold by product, and the sum of returned final sales by country. Through these tables, I was able to identify sales and return trends and use them to support future business analysis and decision-making.
 
-Task 4: Discrepancy & Root Cause Analysis
+The pivot tables can be found in the Task 3 worksheet of the workbook or in the Management_Report sheet. The file contains multiple tables across different tasks, including those used in Task 4, so a single screenshot does not capture all of them.
+
+
+
+
+
+
+# Task 4: Discrepancy & Root Cause Analysis
 
 Objective: Interpret results and identify potential business issues.
 
@@ -79,8 +80,7 @@ Objective: Interpret results and identify potential business issues.
 * ssess whether discounts are associated with return behavior
 
 * Determine which products should be prioritized for audit
+![Project Screenshot](https://github.com/datzmyboy/simulated_data1/blob/main/Screenshot%202026-01-08%20072627.png)
 
 
-The answers for this case study are documented across the Excel worksheets, starting from the raw data and progressing through data validation, analysis, and reporting. Each worksheet reflects a specific task, from the initial raw data review to the final insights provided in Task 4.
- 
 
