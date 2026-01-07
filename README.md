@@ -48,8 +48,8 @@ Objective: Apply business logic using Excel formulas.
 
 In Task 2, I used Excel functions such as **IF**, **OR**, **ISBLANK**, and **AND** to apply business logic to the dataset. These functions were used to determine which records should be flagged and which data points require further attention. By using logical conditions instead of manual checks, the process ensures consistent validation and helps focus the analysis on records that may impact accuracy and reporting results.
 
-![Project Screenshot]
-(https://github.com/datzmyboy/simulated_data1/blob/main/formula_data1_pic_doc.png)
+
+![Project Screenshot](https://github.com/datzmyboy/simulated_data1/blob/main/formula_data1_pic_doc.jpg)
 
 
 
