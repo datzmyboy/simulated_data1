@@ -81,6 +81,10 @@ Objective: Interpret results and identify potential business issues.
 
 * Determine which products should be prioritized for audit
 ![Project Screenshot](https://github.com/datzmyboy/simulated_data1/blob/main/Screenshot%202026-01-08%20072627.png)
+This screenshot is from the main Excel file, specifically the Task_4 worksheet. I included a screenshot because it contains the same answers shown in the analysis.
+
+
+
 
 
 
