@@ -1,9 +1,10 @@
 # Simulated Excel Data Analyst Case Study
+After applying for entry-level data analyst roles, I realized that most companies in my area prioritize strong Excel skills for junior positions, often even before Python or SQL. To address this gap, I created a simulated Excel data analyst case study based on real job descriptions for entry-level roles.
 
+I used these job requirements as a reference and prompted AI to act as a manager by generating realistic task requirements, similar to how assignments are given in a real work environment. I then independently completed all data validation, Excel-based analysis, reporting, and interpretation using the provided dataset.
 
-After applying for entry-level data analyst roles, I realized that most companies in my area prioritize strong Excel skills for junior positions, even before Python or SQL. To address this gap, I decided to create a simulated case study based on real job descriptions for entry-level data analyst roles. I used these job requirements as a reference and prompted AI to act as a manager, assigning realistic tasks while I assumed the role of the data analyst. This project demonstrates how I approach data validation, Excel-based analysis, reporting, and business insights in a practical, job-relevant context.
+This project demonstrates my approach to data quality checks, business logic implementation using Excel formulas, pivot table analysis, and translating data findings into meaningful business insights. The tasks listed below simulate real-world analyst responsibilities, while all calculations, analysis, and conclusions reflect my own work and understanding of the data.
 
-Below are the task requirements generated based on entry-level data analyst job descriptions, which I followed to complete this case study.
 
 
 # Task 1: Data Validation & Internal Control
@@ -83,8 +84,12 @@ Objective: Interpret results and identify potential business issues.
 ![Project Screenshot](https://github.com/datzmyboy/simulated_data1/blob/main/Screenshot%202026-01-08%20072627.png)
 This screenshot is from the main Excel file, specifically the Task_4 worksheet. I included a screenshot because it contains the same answers shown in the analysis.
 
+# Final Insights & Recommendations
+
+In this case study, we found that Shopify generated higher final sales compared to Amazon. The analysis also showed that having more discounts or higher discount levels does not strongly correlate with higher returns, suggesting that other factors need to be monitored. Since returned sales are sometimes inevitable and part of normal business operations, the company should focus on monitoring and strengthening areas that generate higher profit to help offset potential losses. Products that are sold in high quantities and generate significant sales should be prioritized for audit to maintain or improve performance and to reduce the risk of future returns and negative customer feedback.
 
 
-
+# Bonus
+Although not part of the main task requirements, this bonus section was added to demonstrate practical use of the VLOOKUP function, which is a commonly expected skill for entry-level data analyst roles. A small sample dataset was generated for this purpose, and VLOOKUP was used to retrieve missing reference information and enrich the data.
 
 
